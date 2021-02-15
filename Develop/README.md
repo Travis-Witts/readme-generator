@@ -16,7 +16,7 @@
   - [Questions](#Questions)
  
   ## Usage
-  The user must have the program installed along with node, to begin using type "Node index.js" in the integrated terminal.
+  The user must have the program installed along with node, to begin type "Node index.js" in the integrated terminal.
 
   ## Installation
   To install the user must fork, clone or download the repo then install all required packages through npm.
