@@ -33,4 +33,4 @@
     
   ## Questions
     
-  If you have any more questions regarding this or any other projects contact me at my [GitHub](https://github.com/Travis297/), or [email](travis.witts@outlook.com).
+  If you have any more questions regarding this or any other projects contact me at my [GitHub](https://github.com/Travis297/), or [email](mailto:travis.witts@outlook.com).
