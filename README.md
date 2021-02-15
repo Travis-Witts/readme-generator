@@ -23,7 +23,7 @@
     
   ## License
     
-  This is licensed as under [MIT](https://opensource.org/licenses/MIT) licensing.
+  This repository is covered under the [MIT](https://opensource.org/licenses/MIT) licensing.
     
   ## Contributing
   Submitting a pull request to the repo would be most appreciated.
