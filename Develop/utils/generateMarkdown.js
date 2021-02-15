@@ -22,13 +22,17 @@ function renderLicenseBadge(license) {
   }
 
 }
+function renderLicenseLink(license) {
+  var newLicense = license.replace(" ", "-")
+  return `https://opensource.org/licenses/${newLicense}`
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
   # ${data.projectName}
 
-  ${renderLicenseBadge}
+  ${renderLicenseBadge(data.license)}
 
   ## Description
   ${data.description}
@@ -50,7 +54,7 @@ function generateMarkdown(data) {
     
   ## License
     
-  This is licensed as under the [${license}](${renderLicenseLink(license)})
+  This is licensed as under [${data.license}](${renderLicenseLink(data.license)})
     
   ## Contributing
   ${data.contributions}
