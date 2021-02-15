@@ -54,7 +54,7 @@ function generateMarkdown(data) {
     
   ## License
     
-  This is licensed as under [${data.license}](${renderLicenseLink(data.license)})
+  This is licensed as under [${data.license}](${renderLicenseLink(data.license)}) licensing.
     
   ## Contributing
   ${data.contributions}
